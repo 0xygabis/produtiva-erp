@@ -1,0 +1,6 @@
+{
+  "name": "PCP Pro - Planejamento e Controle de Produção",
+  "description": "Sistema integrado de Planejamento e Controle de Produção (PCP) e ERP leve para pequenas indústrias, com fichas técnicas, controle de estoque, ordens de produção, apontamento em tempo real e relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
